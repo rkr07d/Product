@@ -1,0 +1,32 @@
+I, [2016-11-06T14:11:54.512187 #2644]  INFO -- default-centos-72: -----> Creating <default-centos-72>...
+I, [2016-11-06T14:12:03.894879 #2644]  INFO -- default-centos-72: Bringing machine 'default' up with 'virtualbox' provider...
+I, [2016-11-06T14:12:04.676478 #2644]  INFO -- default-centos-72: ==> default: Checking if box 'bento/centos-7.2' is up to date...
+I, [2016-11-06T14:12:07.954394 #2644]  INFO -- default-centos-72: ==> default: Machine not provisioned because `--no-provision` is specified.
+I, [2016-11-06T14:12:31.752916 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:12:49.767204 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:13:07.783492 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:13:25.798279 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:13:43.811066 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:14:01.823854 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:14:19.836641 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:14:37.850429 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:14:55.863716 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:15:13.876503 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:15:31.889791 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:15:49.902578 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:16:07.915365 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:16:25.927153 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:16:43.940940 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:17:01.954727 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:17:19.969015 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:17:37.982302 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:17:55.995590 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:18:14.009377 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:18:32.022665 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:18:50.035952 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:19:08.049239 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:19:26.062527 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:19:44.075814 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:20:02.088602 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:20:20.100889 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
+I, [2016-11-06T14:20:38.113676 #2644]  INFO -- default-centos-72: Waiting for SSH service on 127.0.0.1:2200, retrying in 3 seconds
